@@ -10,7 +10,7 @@
 
 ---
 
-## 📦 Descripción
+## 📦 Description
 
 This repository contains the **`updates.json`**, file used by the internal automatic update system of th 
 [`AleeDev Disconnect`](https://portal.cfx.re/assets/granted-assets).

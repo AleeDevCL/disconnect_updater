@@ -1,0 +1,11 @@
+{
+  "latest": "5.2.0",
+  "changelog": [
+    "🧾 AleeDev Disconnect v5.2.0",
+    "- Añadido sistema de actualización automática (updater).",
+    "- Optimización del rendimiento general.",
+    "- Soporte mejorado para QBcore y ESX.",
+    "- Limpieza del código y mejoras visuales."
+  ],
+  "download": "https://forum.cfx.re/t/aleedev-disconnect-release/xxxxxx"
+}
